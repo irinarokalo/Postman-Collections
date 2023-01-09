@@ -1,0 +1,1 @@
+##### [Link](https://www.postman.com/irinarokalo/workspace/my-workspace-test/collection/6304622-be340aae-db35-4aa5-b413-7ab458029d24?action=share&creator=6304622) to my Postman collection for [Swagger Petstore](https://petstore.swagger.io/#/) testing
